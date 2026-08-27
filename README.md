@@ -15,3 +15,5 @@
 ## Build & Debug
 1. Build (Command+Shift+B)
 2. Debug with OpenOCD (F5)
+
+![alt text](docs/debug.png)
